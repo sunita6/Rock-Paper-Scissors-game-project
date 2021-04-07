@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-game-project
-my first Python game project
+My firs
+t Python game project
